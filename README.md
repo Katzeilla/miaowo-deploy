@@ -1,4 +1,4 @@
-# miaowo-deploy
+# miaowo-deploy (WIP)
 
 pre-deploy sanity check
 
